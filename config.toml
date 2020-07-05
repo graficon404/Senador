@@ -1,0 +1,11 @@
+baseURL = "http://example.org/"
+languageCode = "es"
+title = "Jorge Solá Jais"
+theme = "jeffprod"
+
+[permalinks]
+    post = "/:year/:filename"
+
+[taxonomies]
+    tag = "tags"
+    archive = "archives"
