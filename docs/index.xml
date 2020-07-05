@@ -11,24 +11,6 @@
     
     
     <item>
-      <title>Proyectos</title>
-      <link>http://example.org/proyectos/</link>
-      <pubDate>Sat, 04 Jul 2020 12:53:28 -0300</pubDate>
-      
-      <guid>http://example.org/proyectos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contacto</title>
-      <link>http://example.org/contacto/</link>
-      <pubDate>Sat, 04 Jul 2020 12:52:46 -0300</pubDate>
-      
-      <guid>http://example.org/contacto/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Posts</title>
       <link>http://example.org/post/</link>
       <pubDate>Fri, 03 Jul 2020 12:27:02 -0300</pubDate>
