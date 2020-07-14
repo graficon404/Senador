@@ -5,10 +5,19 @@
     <description>Recent content on Jorge Solá Jais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 03 Jul 2020 12:27:02 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2020 18:01:17 -0300</lastBuildDate>
     
         <atom:link href="http://jorgesolajais.com.ar/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Posts</title>
+      <link>http://jorgesolajais.com.ar/post/</link>
+      <pubDate>Sun, 12 Jul 2020 18:01:17 -0300</pubDate>
+      
+      <guid>http://jorgesolajais.com.ar/post/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Proyectos</title>
@@ -35,15 +44,6 @@ S/ LA CREACION DE LA CAMARA DE APELACIONES EN LO CIVIL, COMERCIAL, MINAS, FAMILI
  +54 0383 4455600 internos 219-611  Celular:
  +5493834041591  E-mail:
  jsolajais@senadodecatamarca.gob.ar  </description>
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>http://jorgesolajais.com.ar/post/</link>
-      <pubDate>Fri, 03 Jul 2020 12:27:02 -0300</pubDate>
-      
-      <guid>http://jorgesolajais.com.ar/post/</guid>
-      <description></description>
     </item>
     
   </channel>
