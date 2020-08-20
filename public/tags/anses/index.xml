@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ANSeS on Jorge Solá Jais</title>
+    <link>http://jorgesolajais.com.ar/tags/anses/</link>
+    <description>Recent content in ANSeS on Jorge Solá Jais</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sat, 15 Aug 2020 20:28:58 -0300</lastBuildDate>
+    
+        <atom:link href="http://jorgesolajais.com.ar/tags/anses/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ACTO DE ANSES EN BELÉN</title>
+      <link>http://jorgesolajais.com.ar/2020/15082020/</link>
+      <pubDate>Sat, 15 Aug 2020 20:28:58 -0300</pubDate>
+      
+      <guid>http://jorgesolajais.com.ar/2020/15082020/</guid>
+      <description>ACTO DE ANSES EN BELÉN Ayer, en la delegación de Desarrollo Social de Belén, junto al titular de ANSES en Catamarca, Enzo Daniel Carrizo; se realizó el acto de entrega simbólico a beneficiarios del Ingreso Familiar de Emergencia (IFE). Estuvieron presentes también, el Intendente de Londres; el Gerente del Banco Nación de la sucursal de Belén, y la responsable de la Delegación.</description>
+    </item>
+    
+  </channel>
+</rss>
