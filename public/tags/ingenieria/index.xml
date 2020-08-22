@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ingenieria on Jorge Solá Jais</title>
+    <link>http://jorgesolajais.com.ar/tags/ingenieria/</link>
+    <description>Recent content in ingenieria on Jorge Solá Jais</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 12 Jun 2020 22:05:44 -0300</lastBuildDate>
+    
+        <atom:link href="http://jorgesolajais.com.ar/tags/ingenieria/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DECLARACIÓN DE INTERÉS AL 150 ANIVERSARIO DEL DÍA DE LA INGENIERÍA ARGENTINA</title>
+      <link>http://jorgesolajais.com.ar/2020/12062020/</link>
+      <pubDate>Fri, 12 Jun 2020 22:05:44 -0300</pubDate>
+      
+      <guid>http://jorgesolajais.com.ar/2020/12062020/</guid>
+      <description>DECLARACIÓN DE INTERÉS AL 150 ANIVERSARIO DEL DÍA DE LA INGENIERÍA ARGENTINA Se declaró de Interés Parlamentario por la Cámara de Senadores, las actividades conmemorativas por el 150 Aniversario de la imposición del Día de la Ingeniería Argentina organizadas por el Centro de Ingenieros de Catamarca. De esta manera, hacemos llegar a los profesionales de la Ingeniería que ejercen en la provincia de Catamarca, un especial saludo y el compromiso permanente de Cuerpo para el desarrollo de los grandes proyectos de interés para la provincia.</description>
+    </item>
+    
+  </channel>
+</rss>
