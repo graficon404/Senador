@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Repudio on Jorge Solá Jais</title>
+    <link>http://jorgesolajais.com.ar/tags/repudio/</link>
+    <description>Recent content in Repudio on Jorge Solá Jais</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 10 Sep 2020 11:40:21 -0300</lastBuildDate>
+    
+        <atom:link href="http://jorgesolajais.com.ar/tags/repudio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>REPUDIO</title>
+      <link>http://jorgesolajais.com.ar/2020/10092020/</link>
+      <pubDate>Thu, 10 Sep 2020 11:40:21 -0300</pubDate>
+      
+      <guid>http://jorgesolajais.com.ar/2020/10092020/</guid>
+      <description>La Cámara de Senadores, en pleno, y de manera unánime expresa el más enérgico repudio frente a las prácticas ilegítimas que atentan contra el sistema democrático, por parte del personal de la policía de Buenos Aires. Entendemos que el reclamo de los sectores postergados, así como el de la totalidad de los trabajadores, tienen el sagrado derecho de peticionar ante las autoridades, pero dicho reclamo NUNCA puede poner en riesgo la institucionalidad ni los valores de la democracia.</description>
+    </item>
+    
+  </channel>
+</rss>
