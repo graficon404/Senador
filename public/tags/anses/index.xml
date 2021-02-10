@@ -1,14 +1,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ANSeS on Jorge Solá Jais</title>
+    <title>Anses on Jorge Solá Jais</title>
     <link>http://jorgesolajais.com.ar/tags/anses/</link>
-    <description>Recent content in ANSeS on Jorge Solá Jais</description>
+    <description>Recent content in Anses on Jorge Solá Jais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Sat, 15 Aug 2020 20:28:58 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 03 Feb 2021 20:22:02 -0300</lastBuildDate>
     
         <atom:link href="http://jorgesolajais.com.ar/tags/anses/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ANSeS en Belén</title>
+      <link>http://jorgesolajais.com.ar/2021/03022021/</link>
+      <pubDate>Wed, 03 Feb 2021 20:22:02 -0300</pubDate>
+      
+      <guid>http://jorgesolajais.com.ar/2021/03022021/</guid>
+      <description>En una intensa jornada de trabajo, comenzó el operativo de ANSES en el departamento Belén, con atención en Puerta de San José. Mañana jueves y viernes continuará el operativo en la ciudad de Belén.</description>
+    </item>
     
     <item>
       <title>ACTO DE ANSES EN BELÉN</title>
