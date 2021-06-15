@@ -3,5 +3,5 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 archives: "{{ dateFormat "2006" now }}"
 tags: []
-author: Melina Cano
+author: Diego Soto
 ---
